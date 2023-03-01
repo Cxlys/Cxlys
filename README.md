@@ -4,7 +4,7 @@
 
 **`Student Software Engineer and Hobbyist`**
 
-Hi! I'm a first-year student computer scientist at the University of Exeter 🇬🇧 with a penchant for picking up new skills. I enjoy building unique and interesting projects from scratch with minimal help from high-level libraries, and creating fun UX in HTML/CSS! I hope to fill this page with all of my projects from now until the future.
+Hi! I'm a first-year student computer scientist at the University of Exeter 🇬🇧  with a penchant for picking up new skills. I enjoy building unique and interesting projects from scratch with minimal help from high-level libraries, and creating fun UX in HTML/CSS! I hope to fill this page with all of my projects from now until the future.
 
 - 😄 Pronouns: `he/him`
 - 🌱 I’m currently learning Tensorflow!
