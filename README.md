@@ -31,9 +31,11 @@ Hi! I'm a student developer at the University of Exeter 🇬🇧 with a penchant
 </div><br>
 
 ### Learning...
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" />
-<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Apache/Apache-original.svg" />
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Tensorflow/Tensorflow-original.svg" /><br><br>
+<div style="display: flex; width: 100%;">
+         <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" />
+         <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Apache/Apache-original.svg" />
+         <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Tensorflow/Tensorflow-original.svg" /><br><br>
+</div>
 
 ### Stats 📊
 
