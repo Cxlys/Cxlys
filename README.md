@@ -30,7 +30,7 @@ Hi! I'm a student developer at the University of Exeter 🇬🇧 with a penchant
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br>
 
-#### Learning...
+#### <u>Learning...</u>
 <div style="display: flex; width: 100%;">
          <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
          <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
