@@ -30,13 +30,13 @@ Hi! I'm a student developer at the University of Exeter 🇬🇧 with a penchant
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br><br>
 
-##### <u>Learning...</u>
+#### Learning...
 <div style="display: flex; width: 100%;">
          <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
          <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
          <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /><br><br>
 </div>
-
+---
 ### Stats 📊
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxlys&show_icons=true&theme=gruvbox)
