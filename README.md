@@ -4,7 +4,7 @@
 
 **`Student Software Engineer and Hobbyist`**
 
-Hi! I'm a first-year student computer scientist at the University of Exeter 🇬🇧  with a drive for knowledge. I hope to fill this page with all of my projects from now.
+I'm a second-year student computer scientist at the University of Exeter 🇬🇧.
 
 - 😄 Pronouns: `he/him`
 - 🌱 I’m currently learning Spring/React!
