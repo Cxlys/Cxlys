@@ -32,8 +32,7 @@ I'm a second-year Computer Science student at the University of Exeter 🇬🇧.
 <div style="display: flex; width: 100%;">
   <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-</div><br>
+</div><br><br>
 
 ### Would like to learn...
 <div style="display: flex; width: 100%;">
