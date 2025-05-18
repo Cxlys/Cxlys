@@ -3,11 +3,11 @@
 # Daniel Casley
 **`Aspiring Software Engineer`**
 
-I'm a second-year Computer Science student at the University of Exeter 🇬🇧.
+I'm a third-year Computer Science student at the University of Exeter 🇬🇧.
 
 -  Pronouns: `he/him`
 -  I’m currently learning Spring/React!
--  I’m currently preparing for my year-in-industry.
+-  I’m currently preparing for my graduation.
 
 <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cxlys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -29,7 +29,7 @@ I'm a second-year Computer Science student at the University of Exeter 🇬🇧.
 
 #### Learning...
 <div style="display: flex; width: 100%;">
-  <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div><br><br>
 
