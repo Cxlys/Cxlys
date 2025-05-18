@@ -7,7 +7,6 @@ I'm a third-year Computer Science student at the University of Exeter 🇬🇧.
 
 -  Pronouns: `he/him`
 -  I’m currently learning Spring/React!
--  I’m currently preparing for my graduation.
 
 <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cxlys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
